@@ -1,4 +1,5 @@
 # REV06 Wed 07 Jul 2021 20:15:07 WIB
 # https://osp4diss.vlsm.org/ETC/logCodes.txt
 # ZCZC WEEK# MINUTES LogCode Description
-ZCZC W00 10 L03 Github related
+ZCZC W00 15 L03 Github related
+ZCZC W00 100 L02 ZOOM meetings related
