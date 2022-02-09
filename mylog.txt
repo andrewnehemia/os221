@@ -3,3 +3,4 @@
 # ZCZC WEEK# MINUTES LogCode Description
 ZCZC W00 15 L03 Github related
 ZCZC W00 100 L02 ZOOM meetings related
+ZCZC W00 60 L06 References/Books/Documents/GSGS related
