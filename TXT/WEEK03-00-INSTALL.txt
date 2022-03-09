@@ -1,9 +1,0 @@
-ZCZC SCRIPT # REV03: Sun 27 Feb 2022 17:43:43 WIB
-ZCZC STAMPX 62256B0A FE757495 andrewnehemia
-ZCZC VERSUM 28:C041F903 28:C041F903
-ZCZC WEEKSQ 03 00
-ZCZC VERDSK 15G 31G 402A0CBAA0D5 7C505FD7E313
-ZCZC VERLNX 5.10.0-11-amd64
-ZCZC PATHXX /home/andrewnehemia/bin /home/andrewnehemia/bin IS OK
-ZCZC hoBIN 00-install-to-bin.sh 01-Version-Check.sh 02-Extra-Disk-Check.sh 98-include.sh
-ZCZC ===== RESULT IN /home/andrewnehemia/RESULT/W03/WEEK03-00-INSTALL.txt =====
